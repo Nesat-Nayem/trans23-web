@@ -7,22 +7,22 @@ import styles from "./staffs.module.css";
 
 const staffs =[
   { 
-      "image": "https://i.ibb.co/NmND26W/tttttttttttttttttttt-removebg-preview.png", 
-      "name": "James", 
-      "profession": "Event Planner",
-      "details": "Planning and producing the whole event.Procurement management and resource management. Formulates, prepares and implement risks related management plan to event planning and production."
+      "image": "./speakes-thumbnail.png", 
+      "name": "Mary", 
+      "profession": "MANAGER / ON-SITE LEAD",
+      "details": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
   },
   {
-      "image": "./speakes-thumbnail.png", 
+      "image": "https://i.ibb.co/NmND26W/tttttttttttttttttttt-removebg-preview.png", 
       "name": "William",
-      "profession": "Event / Marketing Coordinator",
-      "details": "They oversee the entire event process, supervising the rest of the team to make sure no balls are dropped. The Coordinator(s) communicates regularly with the Director to make sure the day-to-day work is laddering up to the overall vision."
+      "profession": "DRIVER",
+      "details": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
   },
   {
       "image": "https://i.ibb.co/qjSg5jr/team22222222-removebg-preview.png", 
       "name": "Robert",
-      "profession": "Information Manager",
-      "details": "Manages the information acquired through different sources. Responsible for the documentation of all business operations carried out pre-event, at-event and post-event. Maintains database of service providers, delegates, guests, organizers, sponsors, partners, clients, target audience, media people and various govt. departments officials. Formulates, prepares and implements the risk management plan."
+      "profession": "DELIVERY BOY",
+      "details": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
   }
   // { 
   //     "image": "./speakes-thumbnail.png", 
@@ -108,7 +108,7 @@ const Staffs = () => {
                   <h6
                     className={`openSans uppercase tracking-[5px] text-sm text-gray-500`}
                   >
-                    Trans23
+                    Our Dedicated Team
                   </h6>
                   <h4 className={`roboto font-medium text-xl`}>
                     Professional<br />
@@ -117,7 +117,7 @@ const Staffs = () => {
                   <h5 className="font-semibold text-lg">{staff.name}</h5>
                   <p className="text-sm pr-2 overflow-auto">{staff.details?.slice(0, 200)}</p>
                   <h5 className="font-semibold text-xl">
-                    Social Network
+                  Dedicated & Responsibil
                     <div></div>
                   </h5>
                 </div>

@@ -244,143 +244,34 @@ const Navbar = ({ location }) => {
           {/* children */}
           <div class=" hidden lg:flex font-bold">
             <ul class="menu menu-horizontal p-0">
+          
+         
+              {/* HERE THE SERVICES */}
+      
+
               <li>
                 <NavLink to="/" className={navStyle}>
                   HOME
                 </NavLink>
               </li>
-              <li tabindex="0">
-                <Link to={pathname} className={` `}>
-                  ABOUT
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="20"
-                    height="20"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
-                  </svg>
-                </Link>
-                <ul class="p-2" id="megaMenu" style={{ zIndex: "11111" }}>
-                  <li>
-                    <Link className="uppercase" to="/about">
-                      About us
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="uppercase" to="/faq">
-                      faq
-                    </Link>
-                  </li>
-                </ul>
-              </li>
-              {/* <li tabindex="0">
-                <Link to={pathname} className={` `}>
-                  EVENT
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="20"
-                    height="20"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
-                  </svg>
-                </Link>
-                <ul class="p-2" id="megaMenu" style={{ zIndex: "11111" }}>
-                  <li>
-                    <Link className="uppercase" to={"/eventlist"}>
-                      event list
-                    </Link>
-                  </li>
-              
-                  <li>
-                    <Link className="uppercase" to="/event-booking">
-                      event Booking
-                    </Link>
-                  </li>
-                </ul>
-              </li> */}
-              {/* HERE THE SERVICES */}
-              <li tabindex="0">
-                <Link to={pathname} className={` `}>
+              <li>
+                <NavLink to="/service" className={navStyle}>
                   SERVICES
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="20"
-                    height="20"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
-                  </svg>
-                </Link>
-                <ul class="p-2" id="megaMenu" style={{ zIndex: "11111" }}>
-                  <li>
-                    <Link className="" to="/catering">
-                      Catering
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/audiovisual">
-                      Audiovisual
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/sound-lighting">
-                      Sound And Lighting
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/event-linen">
-                      Event Linen Rentals
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/destination">
-                      Destination Management
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/logistics-registration">
-                      Logistics And Registration
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/venue-facility">
-                      Venue & Facility Negotiation
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="" to="/photography">
-                      Videography & Photography
-                    </Link>
-                  </li>
-                </ul>
+                </NavLink>
               </li>
-
               <li>
                 <NavLink to="/blogs" className={navStyle}>
                   BLOGS
                 </NavLink>
               </li>
 
-              {/* <li>
-                <NavLink to="/gallery" className={navStyle}>
-                  GALLERY
-                </NavLink>
-              </li> */}
+         
               <li>
                 <NavLink to="/employee" className={navStyle}>
                   EMPLOYEE
                 </NavLink>
               </li>
-              {/* <li>
-                <NavLink to="/dashboard" className={navStyle}>
-                  DASHBOARD
-                </NavLink>
-              </li> */}
+          
               <li>
                 <NavLink to="/contact-us" className={navStyle}>
                   CONTACT
