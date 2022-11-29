@@ -28,37 +28,37 @@ const Feature = () => {
                 </div>
                 <div id="carousel-cell-2" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/dtphSPH/portfolio-img-04-540x391.jpg" alt="" />
+                        <img src="https://i.postimg.cc/yx91sZPs/ben-o-bro-wp-U4ve-NGn-Hg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
-                        <h4>SEO</h4>
-                        <h3>Mannix Marketing</h3>
+                        <h4>Karnataka</h4>
+                        <h3>Kok ten tower </h3>
                     </div>
                 </div>
                 <div id="carousel-cell-3" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/5TB3MfW/flowy-dark-haired-woman-540x391.jpg" alt="" />
+                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
-                        <h4>Marketing</h4>
-                        <h3>Online Media Management</h3>
+                        <h4>Delhi</h4>
+                        <h3>Len </h3>
                     </div>
                 </div>
                 <div id="carousel-cell-4" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/rQ0m6k7/portfolio-img-01-new-540x391.jpg" alt="" />
+                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
-                        <h4>SEO</h4>
+                        <h4>Hyderabad</h4>
                         <h3>Mannix Marketing</h3>
                     </div>
                 </div>
                 <div id="carousel-cell-5" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/rktDLkz/portfolio-img-02-540x391.jpg" alt="" />
+                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
-                        <h4>SEO</h4>
+                        <h4>Bangalore</h4>
                         <h3>Mannix Marketing</h3>
                     </div>
                 </div>

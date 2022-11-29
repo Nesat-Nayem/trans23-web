@@ -71,7 +71,7 @@ const Footer = () => {
                <div class="">
                   <div class="">
                      <h3 class="footer-item-title capitalize text-3xl text-white">
-                        Eventy <strong className='text-[#ff960d]'>instagram</strong>
+                        Trans23 <strong className='text-[#ff960d]'>instagram</strong>
                      </h3>
                      <ul className="py-10 grid grid-cols-3 gap-4 items-center">
                         <li id="image_wrapper">
@@ -110,7 +110,7 @@ const Footer = () => {
                         </li>
                      </ul>
                      <h4 class="followus-link text-white">
-                        Follow Our Instagram <a href="#!"> Eventy</a>
+                        Follow Our Instagram <a href="#!"> Trans23</a>
                      </h4>
                   </div>
                </div>
