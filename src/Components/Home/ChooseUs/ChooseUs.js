@@ -44,8 +44,8 @@ const ChooseUs = () => {
         <div className='pb-20'>
             <div className='flex items-center justify-center my-8'>
                 <div data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
-                    <p className=' font-semibold text-center '> WHY CHOOSE US</p>
-                    <h3 className='text-3xl font-bold'>What We Offer</h3>
+                    <p className=' font-semibold text-center '> Our Services</p>
+                    <h3 className='text-3xl font-bold'>We Offer You</h3>
                 </div>
             </div>
             <div className="md:grid lg:grid-cols-3 gap-5 w-10/12 mx-auto ">
