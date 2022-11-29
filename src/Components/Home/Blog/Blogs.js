@@ -18,17 +18,17 @@ import Singleblog from "./SingleBlog/Singleblog";
 
 const blogs =[
   {
-    "tittle": "Masters in Event Management",
+    "tittle": "Load Boards Show Flat Demand and Higher Rates",
     "type": "blog",
-    "image": "https://i.ibb.co/L62FQYZ/corporate-events.png",
+    "image": "https://moversco-demo.pbminfotech.com/demo2/wp-content/uploads/sites/2/2018/08/blog-01-800x740.jpg",
     "date": "20,September,2021",
     "address": "200 Clarkson Avenue, Cobbtown,",
     "details": "Event management focuses on the steps and techniques that have to be taken for the successful organisation of an event. The event management discipline offers knowledge on how to build a concept, plan and identify the target audience for the desired event. Professionals in the field have to take into consideration budgeting, developing a theme, making sure all equipment and facilities are according to the desires of the client. Event management programmes offer a mix of business and management knowledge, including education on creativity and design elements.Event management borrows theories and practical knowledge from similar disciplines such as: innovation management, project management, marketing and public relations.Subjects included in the events management curricula include: strategic management, innovation for events, advertising and promotion, effective messaging, and event business Programmes in event management will equip students with creative thinking and strong leadership skills in order to coordinate teams that come together to accomplish a successful event. They will develop excellent organisational abilities, attention to detail and they will learn how to communicate efficiently and clearly, as they have to maintain a constant feedback between beneficiaries and services contractors.Career prospects for graduates include areas like: exhibit and conference organising, event designing, wedding planning, public relations, and more."
   },
   {
-    "tittle": "What makes event management a great career?",
+    "tittle": "Truckers to Seek HOS Waiver to the Ease Calif",
     "type": "blog",
-    "image": "https://i.ibb.co/7JBPWBK/private-parties-slider.jpg",
+    "image": "https://moversco-demo.pbminfotech.com/demo2/wp-content/uploads/sites/2/2017/09/blog-06-800x740.jpg",
     "date": "10,January,2022",
     "address": "221 Fillmore Place, Kennedyville,",
     "details": "There are hardly any jobs that offer you the same scope of creativity, socialising and travel than a career in event management. The industry is so varied that you can find yourself organising a wedding in the Welsh countryside one day, to organising a surf competition on the coast of Cornwall the next.Event manager Louisa Douglas says: “I love the rush, no two days or events are the same, it’s an agile industry that’s always changing, plus I get to meet new people all the time.”Working closely with clients to plan and deliver a successful event is extremely rewarding and the industry offers fantastic career progression. Sound good? Keep reading.There is no minimum qualification requirement to become an event manager. Anyone with strong organisational skills, creativity and excellent PR skills can enter into the industry. However, if you decide to undertake a qualification to prove your talent and knowledge on your CV; there are various professional courses available.Graduate careers advisors Prospects say: “You don’t need a degree to become an events manager and you can work your way up from an assistant position, gaining experience as you progress. It may be useful to take the Level 2 Certificate in Event Planning, although not essential.”Qualifications can help you with event management theory, but they’re by no means essential. Even with an event qualification you’ll still need to find work experience in the industry to make you an attractive and well-rounded candidate. Being able to show potential employers that you have hands-on practical experience will stand you in good stead. "
@@ -123,7 +123,7 @@ const Blogs = () => {
                 >
                   <div className=" flex justify-between items-center cursor-pointer">
                     <h3 className=" font-semibold text-xl leading-5 text-gray-800">
-                      How to join Eventy Event Management?
+                    Q: What is the mission Financity ?
                     </h3>
                     <button
                       aria-label="too"
@@ -162,13 +162,9 @@ const Blogs = () => {
                       (show ? "block" : "hidden")
                     }
                   >
-                    <span className="font-bold text-[20px] text-[#ffbe30]">
-                      Answer:
-                    </span>{" "}
-                    <br />
-                    Bring people together, or turn your passion into a business.
-                    Harmoni gives you everything you need to host your best
-                    event yet. lorem ipsum diamet.
+                 
+                
+                 Sed ut perspiciatis unde omnis iste natus error sit vo-luptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo
                   </p>
                 </div>
 
@@ -183,7 +179,7 @@ const Blogs = () => {
                 >
                   <div className="  flex justify-between items-center cursor-pointer">
                     <h3 className=" font-semibold text-xl leading-5 text-gray-800">
-                      How to make my own event?
+                    Q: What is the mission Financity ?
                     </h3>
                     <button
                       aria-label="too"
@@ -221,13 +217,7 @@ const Blogs = () => {
                       (show2 ? "block" : "hidden")
                     }
                   >
-                    <span className="font-bold text-[20px] text-[#ffbe30]">
-                      Answer:
-                    </span>{" "}
-                    <br />
-                    Bring people together, or turn your passion into a business.
-                    Harmoni gives you everything you need to host your best
-                    event yet. lorem ipsum diamet.
+                    Sed ut perspiciatis unde omnis iste natus error sit vo-luptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo
                   </p>
                 </div>
 
@@ -242,7 +232,7 @@ const Blogs = () => {
                 >
                   <div className=" flex justify-between items-center cursor-pointer">
                     <h3 className=" font-semibold text-xl leading-5 text-gray-800">
-                      About the price to make new event?
+                    Q: What is the mission Financity ?
                     </h3>
                     <button
                       aria-label="too"
@@ -280,74 +270,14 @@ const Blogs = () => {
                       (show3 ? "block" : "hidden")
                     }
                   >
-                    <span className="font-bold text-[20px] text-[#ffbe30]">
-                      Answer:
-                    </span>{" "}
-                    <br />
-                    Bring people together, or turn your passion into a business.
-                    Harmoni gives you everything you need to host your best
-                    event yet. lorem ipsum diamet.
+                    Sed ut perspiciatis unde omnis iste natus error sit vo-luptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo
                   </p>
                 </div>
 
-                <hr className=" my-7 bg-gray-200 lg:w-[420px]" />
 
                 {/* Tracking Section */}
 
-                <div className="lg:w-[420px]"
-                 data-aos="fade-right"
-                 data-aos-delay="1800"
-                 data-aos-duration="2500"
-                >
-                  <div className=" flex justify-between items-center cursor-pointer">
-                    <h3 className=" font-semibold text-xl leading-5 text-gray-800">
-                      About the price to make new event?
-                    </h3>
-                    <button
-                      aria-label="too"
-                      className="  cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-800"
-                      onClick={() => setShow4(!show4)}
-                    >
-                      <svg
-                        width="20"
-                        height="20"
-                        viewBox="0 0 20 20"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          className={show4 ? "hidden" : "block"}
-                          d="M10 4.1665V15.8332"
-                          stroke="#1F2937"
-                          strokeWidth="1.25"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        />
-                        <path
-                          d="M4.16602 10H15.8327"
-                          stroke="#1F2937"
-                          strokeWidth="1.25"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        />
-                      </svg>
-                    </button>
-                  </div>
-                  <p
-                    className={
-                      "font-normal text-base leading-6 text-gray-600 mt-4 w-11/12 " +
-                      (show4 ? "blcok" : "hidden")
-                    }
-                  >
-                    <span className="font-bold text-[20px] text-[#ffbe30]">
-                      Answer:
-                    </span>{" "}
-                    <br />
-                    Bring people together, or turn your passion into a business.
-                    Harmoni gives you everything you need to host your best
-                    event yet. lorem ipsum diamet.
-                  </p>
-                </div>
+            
 
                 <hr className=" my-7 bg-gray-200 lg:w-[420px]" />
               </div>
