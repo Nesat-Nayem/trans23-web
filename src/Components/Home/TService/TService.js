@@ -11,26 +11,26 @@ const TService = () => {
                 <div className="grid grid-cols-2 gap-5 absolute top-0 justify-center left-28">
                     <div className='shadow flex items-center justify-center w-full h-60 rounded-lg'>
                         <div className='px-9'>
-                            <h2 className='text-center text-6xl font-bold text'>89%</h2>
-                            <p className='text-center text-xl mt-2'>Of the audience is <br /> under 34 years old</p>
+                            <h2 className='text-center text-6xl font-bold text'>94%</h2>
+                            <p className='text-center text-xl mt-2'>Positive Response <br /> From Our Client</p>
                         </div>
                     </div>
                     <div className='shadow flex items-center justify-center w-full h-60 rounded-lg'>
                         <div className='px-9'>
                             <h2 className='text-center text-6xl font-bold'>1350</h2>
-                            <p className='text-center text-xl mt-2'>Content pieces <br /> produced everyday</p>
+                            <p className='text-center text-xl mt-2'>Successfully Work <br /> We have done</p>
                         </div>
                     </div>
                     <div className='shadow flex items-center justify-center w-full h-60 rounded-lg'>
                         <div className='px-9'>
-                            <h2 className='text-center text-6xl font-bold'>320m</h2>
-                            <p className='text-center text-xl mt-2'>Employee <br /> worldwide</p>
+                            <h2 className='text-center text-6xl font-bold'>03K</h2>
+                            <p className='text-center text-xl mt-2'>Our Active <br /> Client Over The Year</p>
                         </div>
                     </div>
                     <div className='shadow flex items-center justify-center w-full h-60 rounded-lg'>
                         <div className='px-9'>
-                            <h2 className='text-center text-6xl font-bold'>320m</h2>
-                            <p className='text-center text-xl mt-2'>Digital global <br /> audience reach</p>
+                            <h2 className='text-center text-6xl font-bold'>10K</h2>
+                            <p className='text-center text-xl mt-2'>Apps Download <br /> Apple Store & Play Store</p>
                         </div>
                     </div>
                 </div>
