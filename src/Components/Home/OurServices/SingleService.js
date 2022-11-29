@@ -167,7 +167,7 @@ function SingleService() {
               <div className="max-w-[530px] ml-auto text-center sm:text-left">
                 <div className="h-[3px] w-[70px] bg-gradient-to-r from-red-500 to-pink-500 mx-auto sm:mx-0 mb-2" />
                 <h4 className="openSans text-white uppercase tracking-[5px] mb-4">
-                  Eventy Venues
+                  Trans23 Venues
                 </h4>
                 <h2 className="roboto text-4xl text-white">
                   Conference <span className="font-bold">Rooms & Hotels</span>

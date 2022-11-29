@@ -14,7 +14,7 @@ const TopBanner = () => {
       <h3 className={`text-4xl text-white uppercase roboto`}
         data-aos="zoom-in"
         data-aos-duration="2000"
-      >Eventy</h3>
+      >Trans23</h3>
       <h3 className={`text-4xl font-bold uppercase roboto  ${style.highlight}`}
         data-aos="zoom-in"
         data-aos-duration="2000"

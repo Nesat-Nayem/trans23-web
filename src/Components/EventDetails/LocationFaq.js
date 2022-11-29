@@ -115,7 +115,7 @@ const LocationFaq = ({eventDetailsData}) => {
               contact information
             </h6>
             <h4 className="text-slate-900/95 text-xl uppercase font-semibold openSans">
-              Eventy Staff
+              Trans23 Staff
             </h4>
           </div>
         </div>

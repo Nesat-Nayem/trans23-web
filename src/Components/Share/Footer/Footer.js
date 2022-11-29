@@ -23,7 +23,7 @@ const Footer = () => {
          <footer class="footer p-10 bg-[#333333] text-white">
             <div>
                <div className="flex items-center">
-                  {/* <img className='ml-[-1rem]' src='https://i.ibb.co/Qb1N5CN/Eventy-Logo.jpg' alt="logo" /> */}
+                  {/* <img className='ml-[-1rem]' src='https://i.ibb.co/Qb1N5CN/Trans23-Logo.jpg' alt="logo" /> */}
                   <div className="uppercase">
                      <h2 className='text-3xl text-white tracking-widest'>Trans23</h2>
                      <p className='text-[#FFBE30] text-lg'>Moves With Safity</p>
@@ -31,13 +31,13 @@ const Footer = () => {
                </div>
                <div className="">
                   <ul className='py-10'>
-                     <li className='flex gap-4 items-center text-base py-1'><span className='text-[#FFBE30] text-2xl'><MdLocationPin></MdLocationPin></span>100 highland ave, california, united state</li>
+                     <li className='flex gap-4 items-center text-base py-1'><span className='text-[#FFBE30] text-2xl'><MdLocationPin></MdLocationPin></span>Mumbai, Maharashtra, India</li>
                      <li className='flex gap-4 items-center text-base py-1'><span className='text-[#FFBE30] text-2xl'><HiOutlineMail></HiOutlineMail></span>contact@trans23.com</li>
                      <li className='flex gap-4 items-center text-base py-1'><span className='text-[#FFBE30] text-lg'><FaPhone></FaPhone></span>100 800 1234 5555</li>
                   </ul>
                </div>
                <div className="">
-                  <h1 className='text-2xl font-bold text-white'>Network</h1>
+                  <h1 className='text-2xl font-bold text-white'>CONNECT WITH US</h1>
                   <ul className='flex gap-4 items-center text-base py-6'>
                      <li><Link to={'/facebook.com'} className='text-2xl cursor-pointer hover:text-sky-500'><BsFacebook /></Link></li>
                      <li><Link to={'/google.com'} className='text-4xl cursor-pointer hover:text-red-500'><AiOutlineGooglePlus /></Link></li>
@@ -123,9 +123,11 @@ const Footer = () => {
             <div class="md:place-self-center md:justify-self-end">
                <div class="grid grid-flow-col gap-4">
                   <ul className='flex gap-4'>
+                     <li><a href="contact.html">Vendor Register</a></li>
+                     <li><a href="contact.html">Franchises Register</a></li>
                      <li><a href="contact.html">Contact us</a></li>
                      <li><a href="about.html">About us</a></li>
-                     <li><a href="#!">Site map</a></li>
+                     {/* <li><a href="#!">Site map</a></li> */}
                      <li><a href="#!">Privacy policy</a></li>
                   </ul>
                </div>

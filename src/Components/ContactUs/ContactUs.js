@@ -4,7 +4,7 @@ import "./ContactUs.css";
 import emailjs from "@emailjs/browser";
 import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
-import Address from "../AboutUs/Address";
+// import Address from "../AboutUs/Address";
 
 const ContactUs = () => {
     const submission = (e) => {
@@ -74,7 +74,7 @@ const ContactUs = () => {
                                 data-aos-duration="2500"
                             >
                                 <span>Keep In Touch </span>
-                                <span className="font-bold">With Eventy</span>
+                                <span className="font-bold">With Trans23</span>
                             </p>
                         </div>
 
@@ -87,9 +87,9 @@ const ContactUs = () => {
                             </div>
                             <div className="space-y-1">
                                 <h4 className="font-body text-xl">Have a question?</h4>
-                                <p className="text-paragraph">I am here to help you.</p>
+                                <p className="text-paragraph">We Are here to help you.</p>
                                 <p className="text-amber-400 font-normal">
-                                    Email us at binarybrains777@gmail.com
+                                    Email us at help@trans23.com
                                 </p>
                             </div>
                         </div>
@@ -146,7 +146,7 @@ const ContactUs = () => {
                                 <input
                                     type="submit"
                                     className='text-sm space-x-10 px-11 py-4 bg-gradient-to-r from-[#ffbe30] to-[#ff3e00] hover:bg-amber-500 rounded-full text-white uppercase font-bold mt-6 transition-all duration-500'
-                                    value="SEND MAIL"
+                                    value="SEND"
 
                                     data-aos="zoom-in"
                                     data-aos-duration="1500"
@@ -157,7 +157,7 @@ const ContactUs = () => {
                 </div>
             </section>
 
-            <Address></Address>
+            {/* <Address></Address> */}
         </div>
     );
 };

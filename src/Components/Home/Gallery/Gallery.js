@@ -10,7 +10,7 @@ function Gallery() {
                         <h1 className='text-center uppercase my-5 text-gray-400 text-[20px] tracking-[10px]'
                             data-aos="fade-right"
                             data-aos-duration="3000"
-                        >Eventy gallery</h1>
+                        >Trans23 gallery</h1>
                         <h1 className='text-4xl uppercase text-center title_line'
                             data-aos="fade-left"
                             data-aos-duration="2500"

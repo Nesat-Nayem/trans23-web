@@ -18,7 +18,7 @@ function Address() {
                 <div>
                     <div className='lg:flex justify-between'>
                         <div>
-                            <p className='text-2xl font-semibold text-white'>Eventy Event Management</p>
+                            <p className='text-2xl font-semibold text-white'>Trans23 Event Management</p>
                             <p className='text-gray-600'>Apple Store, 112 Prince St New York, <br /> NY 10012, United States 80361, <br /> United States</p>
                         </div>
 

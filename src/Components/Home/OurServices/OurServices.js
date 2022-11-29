@@ -137,7 +137,7 @@ export default function OurServices() {
           data-aos="fade-left"
           data-aos-duration="3000"
         >
-          Eventy <span className="font-bold">Expertise</span>
+          Trans23 <span className="font-bold">Expertise</span>
         </p>
       </div>
 

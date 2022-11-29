@@ -29,7 +29,7 @@ const EventListing = () => {
         <h1 className="text-[20px] text-[#878787] uppercase"
           data-aos="fade-left"
           data-aos-duration="3000"
-        >Eventy</h1>
+        >Trans23</h1>
 
         <h1 className="text-[48px]" 
         data-aos="zoom-in" 

@@ -238,7 +238,7 @@ function App() {
               {/* nornal routes */}
               <Route path="/manage-profile" element={<RequireAuth><UserProfile /></RequireAuth>} ></Route>
               <Route path="/update/user-profile" element={<RequireAuth><UpdateUser /></RequireAuth>} ></Route>
-              <Route path="/authentication" element={<Form></Form>}></Route>
+              {/* <Route path="/authentication" element={<Form></Form>}></Route> */}
               <Route path="/ourteam" element={<OurTeam />}></Route>
               <Route path="/about" element={<AboutUs></AboutUs>}></Route>
               <Route path="/gallery" element={<Gallery></Gallery>}></Route>
@@ -292,10 +292,10 @@ function App() {
 
             <Footer></Footer>
             <BackTopBtn></BackTopBtn>
-            <MessengerCustomerChat
+            {/* <MessengerCustomerChat
               pageId="103025519179972"
               appId="1257335411675093"
-            />
+            /> */}
 
             <ToastContainer />
           </div>

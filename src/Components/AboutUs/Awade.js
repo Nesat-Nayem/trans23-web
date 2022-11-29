@@ -23,7 +23,7 @@ function Awade() {
                                 data-aos="fade-left"
                                 data-aos-duration="2000"
                             >
-                                <h1 className=' uppercase lg:my-5 text-gray-400 lg:text-[20px] tracking-[10px]'>Eventy AWAED</h1>
+                                <h1 className=' uppercase lg:my-5 text-gray-400 lg:text-[20px] tracking-[10px]'>Trans23 AWAED</h1>
                                 <h1 className='lg:text-4xl text-3xl uppercase  title_line'>Our<span className='mx-4'>Winning</span> <span className='font-bold -ml-2'>Awards</span></h1>
                             </div>
                         </div>

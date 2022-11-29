@@ -16,7 +16,7 @@ function Gallery() {
                       data-aos="zoom-in"
                       data-aos-duration="2000"
                     >
-                        <p className='tracking-[8px] uppercase'>Eventy gallery</p>
+                        <p className='tracking-[8px] uppercase'>Trans23 gallery</p>
                         <p className='text-4xl text-center font-bold my-3'>
                             <span className='font-normal tracking-wide mr-2'>EVENTY</span>
                             <span className=' text-[#ffbe30]'>GALLERY</span>
@@ -33,7 +33,7 @@ function Gallery() {
                     <p className='text-lg'
                     data-aos="fade-left"
                     data-aos-duration="2000"
-                    >Eventy Gallery</p>
+                    >Trans23 Gallery</p>
                 </div>
 
             </div>

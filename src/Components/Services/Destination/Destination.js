@@ -55,7 +55,7 @@ function Destination() {
               MANAGEMENT SERVICES
             </p>
             <p className="py-8">
-              Eventy destination Management services include: tourism planning,
+              Trans23 destination Management services include: tourism planning,
               transportation, PRIVATE security details, hotel accommodation,
               restaurants, activities, excursions, conference venues, themed
               events, gala dinners and logistics, meetings, incentive schemes as

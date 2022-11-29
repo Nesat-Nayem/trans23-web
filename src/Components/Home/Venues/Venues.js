@@ -59,7 +59,7 @@ const Venues = () => {
                 data-aos="fade-left"
                 data-aos-duration="3000"
               >
-                Eventy Venues
+                Trans23 Venues
               </h4>
               <h2
                 className={`${styles.roboto} text-4xl text-white`}

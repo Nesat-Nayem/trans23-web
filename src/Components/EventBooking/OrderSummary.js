@@ -29,7 +29,7 @@ const OrderSummary = () => {
                                 data-aos="flip-down"
                                 data-aos-duration="2500"
                             >
-                                <td className='bg-slate-100'>Eventy Package 1</td>
+                                <td className='bg-slate-100'>Trans23 Package 1</td>
                                 <td className='bg-slate-100'>$120.00</td>
                                 <td className='bg-slate-100'>$5.00</td>
                                 <td className='bg-slate-100'> <input className='w-12 text-center focus:outline-none bg-slate-100' type="text" defaultValue="5" /> </td>
@@ -39,7 +39,7 @@ const OrderSummary = () => {
                                 data-aos="flip-down"
                                 data-aos-duration="2500"
                             >
-                                <td>Eventy Package 2</td>
+                                <td>Trans23 Package 2</td>
                                 <td>$120.00</td>
                                 <td>$5.00</td>
                                 <td> <input className='w-12 text-center focus:outline-none' type="text" defaultValue="5" /> </td>

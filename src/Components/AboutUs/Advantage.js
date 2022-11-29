@@ -31,7 +31,7 @@ function Advantage() {
             data-aos="fade-right"
             data-aos-duration="2000"
             >
-              <span className="mr-4">Eventy</span>{" "}
+              <span className="mr-4">Trans23</span>{" "}
               <span className="font-bold -ml-2">Advantages</span>
             </h1>
           </div>

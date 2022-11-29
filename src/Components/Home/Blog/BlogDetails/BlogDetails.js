@@ -34,7 +34,7 @@ const BlogDetails = () => {
               data-aos="zoom-in"
               data-aos-duration="2000"
             >
-              Eventy
+              Trans23
               <br />
               <strong className="text-[#ffbe30]">BLOG DETAILS</strong>
             </h1>

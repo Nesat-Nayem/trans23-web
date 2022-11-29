@@ -9,13 +9,41 @@ import PurchaseEvent from "../PurchaseEvent/PurchaseEvent";
 import EmployeeBanner from "./EmployeeBanner";
 // import TopBanner from "../../EventDetails/TopBanner";
 
+const employeeInfo =[
+  {
+    "image":"https://wp.zozotheme.com/wp-moverproe/wp-content/uploads/2020/10/1-1.jpg",
+    "profession":"Michale Joe",
+    "city":"Main Supervisor",
+    "country":"Pune"
+  },
+  {
+    "image":"https://wp.zozotheme.com/wp-moverproe/wp-content/uploads/2020/10/3.jpg",
+    "profession":"Michale Joe",
+    "city":"Main Supervisor",
+    "country":"Pune"
+  },
+  {
+    "image":"https://wp.zozotheme.com/wp-moverproe/wp-content/uploads/2020/10/4.jpg",
+    "profession":"Michale Joe",
+    "city":"Maintainance Head",
+    "country":"Delhi"
+  },
+  {
+    "image":"https://wp.zozotheme.com/wp-moverproe/wp-content/uploads/2020/10/2-1.jpg",
+    "profession":"Michale Joe",
+    "city":"Main Supervisor",
+    "country":"Mumbai"
+  }
+]
+
+
 const Employee = () => {
-  const [employeeInfo, setEmployeeInfo] = useState([]);
-  useEffect(() => {
-    axios
-      .get(`https://eventy-serversite-production.up.railway.app/employee`)
-      .then((res) => setEmployeeInfo(res.data));
-  }, []);
+  // const [employeeInfo, setEmployeeInfo] = useState([]);
+  // useEffect(() => {
+  //   axios
+  //     .get(`https://eventy-serversite-production.up.railway.app/employee`)
+  //     .then((res) => setEmployeeInfo(res.data));
+  // }, []);
   // console.log(employeeInfo);
 
   return (

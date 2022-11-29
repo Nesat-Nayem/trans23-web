@@ -42,7 +42,7 @@ function Photography() {
                             SERVICES
                         </p>
                         <p className='py-8'>
-                            Your event is captured through imagery. Our photography and videography team, in addition to, our outside vendors have photographed events with: Presidents Bush, Clinton and Obama, Diplomats, Heads of State and in more than 30 countries throughout the world. Eventy works with Chief videographer, Marshall Levy to produce high definition videos of your event. Video formats are available for resell, online and other digital formats. For more information on our videography services,
+                            Your event is captured through imagery. Our photography and videography team, in addition to, our outside vendors have photographed events with: Presidents Bush, Clinton and Obama, Diplomats, Heads of State and in more than 30 countries throughout the world. Trans23 works with Chief videographer, Marshall Levy to produce high definition videos of your event. Video formats are available for resell, online and other digital formats. For more information on our videography services,
                         </p>
                         <div className='flex justify-end'>
                             <img src="https://i.ibb.co/MRXgQwx/eventy-signature.png" alt="" className='' />

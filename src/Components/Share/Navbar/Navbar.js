@@ -231,7 +231,7 @@ const Navbar = ({ location }) => {
             {/* logo */}
             <div className="flex items-end justify-center">
               {/* <img
-                // src="https://i.ibb.co/Qb1N5CN/Eventy-Logo.png"
+                // src="https://i.ibb.co/Qb1N5CN/Trans23-Logo.png"
                 alt=""
                 className="w-9 h-9"
               /> */}
