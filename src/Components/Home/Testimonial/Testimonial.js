@@ -20,7 +20,7 @@ const Testimonial = () => {
                 <div className="testimonial-details absolute top-0" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
                     <h4 className='font-semibold mb-2'>TESTIMONIALS</h4>
                     <h2 className='text-2xl font-bold mb-3'>What Our Clients Say</h2>
-                    <p className='text-xl w-96'>Ewebot stays ahead of the curve with digital marketing trends.</p>
+                    <p className='text-xl w-96'>Most Client stays trans23 ahead of the curve with Movers trends.</p>
                 </div>
             </div>
             <div className="review-details relative w-2/4 mx-2">
