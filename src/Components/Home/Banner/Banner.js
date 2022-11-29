@@ -73,7 +73,7 @@ const Banner = () => {
 											</div>
 
 											<div className="banner_button pt-14">
-												<Link to='/about' className="text-white  text-xs md:text-base py-3 px-6 md:px-14 capitalize font-semibold rounded-full transition-all ease-in-out duration-500" id="bannerAboutBtn" 
+												<Link to='/' className="text-white  text-xs md:text-base py-3 px-6 md:px-14 capitalize font-semibold rounded-full transition-all ease-in-out duration-500" id="bannerAboutBtn" 
 												data-aos="fade-right"
 												data-aos-duration="3000"
 												>{banner?.aboutBtn}</Link>

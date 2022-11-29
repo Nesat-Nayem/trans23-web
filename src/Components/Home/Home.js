@@ -21,7 +21,7 @@ const Home = () => {
   return (
     <div>
       <Banner></Banner>
-      <UpcommingEvent></UpcommingEvent>
+      {/* <UpcommingEvent></UpcommingEvent> */}
       <AboutUs></AboutUs>
       {/* <Venues /> */}
       <Feature></Feature>
