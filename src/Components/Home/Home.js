@@ -16,6 +16,7 @@ import OurPlan from "./OurPlan/OurPlan";
 import Testimonial from "./Testimonial/Testimonial";
 import Feature from "./Feature/Feature";
 import ChooseUs from "./ChooseUs/ChooseUs";
+import AppDownload from "./AppDownload/AppDownload";
 
 const Home = () => {
   return (
@@ -31,6 +32,7 @@ const Home = () => {
       {/* <EventListing></EventListing> */}
       {/* <Gallery></Gallery> */}
       {/* <OurServices></OurServices> */}
+      <AppDownload></AppDownload>
       <Staffs />
       <OurPlan></OurPlan>
       <PurchaseEvent></PurchaseEvent>
