@@ -19,7 +19,7 @@ const Feature = () => {
             <Flickity className='' options={flickityOptions} >
                 <div id="carousel-cell-1" class="carousel-cell gap-5">
                     <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
+                        <img src="https://i.postimg.cc/yx91sZPs/ben-o-bro-wp-U4ve-NGn-Hg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
                         <h4>Mumbai</h4>
@@ -37,7 +37,7 @@ const Feature = () => {
                 </div>
                 <div id="carousel-cell-3" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
+                        <img src="https://i.postimg.cc/yx91sZPs/ben-o-bro-wp-U4ve-NGn-Hg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
                         <h4>Delhi</h4>
@@ -46,7 +46,7 @@ const Feature = () => {
                 </div>
                 <div id="carousel-cell-4" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
+                        <img src="https://i.postimg.cc/yx91sZPs/ben-o-bro-wp-U4ve-NGn-Hg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
                         <h4>Hyderabad</h4>
@@ -55,7 +55,7 @@ const Feature = () => {
                 </div>
                 <div id="carousel-cell-5" class="carousel-cell gap-5">
                 <div className="carousel-cell-img">
-                        <img src="https://i.ibb.co/zhz41Xg/piotr-chrobot-6o-Usye-YXg-Tg-unsplash.jpg" alt="" />
+                        <img src="https://i.postimg.cc/yx91sZPs/ben-o-bro-wp-U4ve-NGn-Hg-unsplash.jpg" alt="" />
                     </div>
                     <div className="carousel-cell-text">
                         <h4>Bangalore</h4>
